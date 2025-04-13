@@ -24,6 +24,7 @@ Note: It may take a few hours for a new API key to become active. If you see an 
 - Automatic theme support (light/dark)
 - Persistent location settings
 - ToDo List with cutomization
+- flappy bird game 
 
 #How to install
 - npm install
