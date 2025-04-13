@@ -23,3 +23,8 @@ Note: It may take a few hours for a new API key to become active. If you see an 
 - Location search
 - Automatic theme support (light/dark)
 - Persistent location settings
+- ToDo List with cutomization
+
+#How to install
+- npm install
+- npm run dev
